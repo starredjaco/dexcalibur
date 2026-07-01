@@ -26,7 +26,7 @@ Do you want share something or do you need some help ? Join our official chats :
 
 [Telegram](https://t.me/dexcalibur) - the quickiest way to give a response
 
-[![https://discord.gg/pfB7Ez34Ts](https://discordapp.com/api/guilds/852565889386676246/widget.png?style=banner2)](https://discord.gg/pfB7Ez34Ts)
+[![https://discord.gg/Pfw7Kc3dS](https://discordapp.com/api/guilds/852565889386676246/widget.png?style=banner2)](https://discord.gg/Pfw7Kc3dS)
 
 
 Official documentation is available [here (website - work in progress)](https://frenchyeti.github.io/dexcalibur-doc/). 
